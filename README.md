@@ -1,7 +1,7 @@
 # Echo bot with buttons   
 * Bot can echo photos and documents
 * Bot works in html-parse-mode  
-* Buttons markup must be in the end text.
+* Buttons markup must be in the end text
 
 ## Markup rules:
 ___
