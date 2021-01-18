@@ -13,9 +13,9 @@ ___
 **Buttons**:
 > $:  
 > button1, button2  
-> another_button
+> Another Button
 
 **InlineButtons**:
 > $$:  
 > button1, button2  
-> another_button
+> Another Button
